@@ -1,0 +1,9 @@
+Perkenalkan Pak saya Rafly
+ini adalah repositori saya
+
+1. Belajar framework Javascript
+  * Next.js
+  * React.js
+2. Tingkatkan Skill UI/UX
+3. Bangun Proyek Realistis seperti Membuat Web e-commerce
+4. Membuat Personal Branding
